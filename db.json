@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Matar Mashala",
+      "description": "Creamy, tomato-based curry.",
+      "price": "150",
+      "id": 3
+    },
+    {
+      "name": "Chana Mashala",
+      "description": "Spicy",
+      "price": "120",
+      "id": 4
+    },
+    {
+      "name": "Daal Tadka",
+      "description": "Dal cooked with spices & herbs",
+      "price": "150",
+      "id": 5
+    },
+    {
+      "name": "Daal Makhani",
+      "description": "creamy butter and mild spices",
+      "price": "150",
+      "id": 6
+    },
+    {
+      "name": "Malai Kopta",
+      "description": "Cheesy and yummy",
+      "price": "120",
+      "id": 7
+    }
+  ]
+}
